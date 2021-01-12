@@ -3,7 +3,7 @@ def diff21(n):
         return abs (n - 21) * 2
     
     else:
-        return abs (n - 21) * 2
+        return abs (n - 21) 
 
-print (diff21(12))
+print (diff21(25))
 
